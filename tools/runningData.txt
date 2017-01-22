@@ -1,0 +1,4 @@
+ChromeDriver: chrome on XP (3d2f559843b8cd6aa7d7b4b4d02e98eb)
+totalNum=31
+commonTotalNum=20
+interfaceTotalNum=11

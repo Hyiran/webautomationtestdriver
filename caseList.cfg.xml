@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CaseList>
+	<!-- testCase name="TC_GoHome" module="member" type="common"/ -->
+
+	<!--type="common" will find the cases in WTD.cases; type="interface will 
+		find the cases in the cases/interface" -->
+	<!-- testCase name="hf_paycenter_test" type="interface"/ -->
+	<!-- testCase name="TC_Register" module="member" type="common"/ -->
+	<testCase name="TC_GoHome" module="member" type="common" />
+</CaseList>

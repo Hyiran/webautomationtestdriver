@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<case description="add black list in affiliate" type="post">
+	<testApi api="http://api.test.com/user/user/login.html" />
+	<setGlobalVarible name="sToken" value="$Response.sToken" />
+	<test name="the correct values" expectContansString='msg":"ok'>
+		<parameter name="sMobile" value="18100000001" />
+		<parameter name="sPassword" value="da877e4c1f08c3a41ab263924aa6b73c" />
+	</test>
+</case>
