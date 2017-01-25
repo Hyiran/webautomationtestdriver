@@ -117,8 +117,7 @@ public class InitWebDriver {
 					webDriver=new ChromeDriver();
 				}
 			}else if(browserName.toLowerCase().contains("safari")){
-				//System.setProperty("webdriver.safari.driver", "/Users/veronica1/Library/Safari/Extensions");
-				System.setProperty("webdriver.safari.noinstall", "true");
+				System.setProperty("webdriver.safari.driver", "/Users/veronica1/Library/Safari/Extensions");
 				webDriver = new SafariDriver();
 
 			}

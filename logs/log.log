@@ -1,0 +1,90 @@
+2017-01-25 15:48:01,290 INFO [TC_GoHome.class] - ###########################################################################################
+2017-01-25 15:48:01,291 INFO [TC_GoHome.class] - ###################################### WTD Start ##########################################
+2017-01-25 15:48:01,291 INFO [TC_GoHome.class] - ################## Start to Execute Case: 【 TC_GoHome~member~common 】####################
+2017-01-25 15:48:02,494 INFO [TC_GoHome.class] - ~~~~~~ Test Point 【 GoToHome 】  : (回到首页)  is 【 fail 】  {can not go to home page}
+2017-01-25 15:48:02,505 INFO [TC_GoHome.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2017-01-25 15:48:02,813 INFO [TC_GoHome.class] - ~~~~~~~~~~~~ The Screen Capture is :/Users/veronica1/Documents/eclipseWorkSpace/AUTO-P/logs/2017-01-25 15_48_01_SafariDriver/common_member_TC_GoHome/2017-01-25 15_48_02_811.jpg ~~~~~~~~~~~~
+2017-01-25 15:48:02,838 INFO [TC_GoHome.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2017-01-25 15:48:03,341 INFO [TC_GoHome.class] - ~~~~~~ Test Point 【 ScreenCapture 】  : (SreenCapture)  is 【 pass 】 
+2017-01-25 15:48:03,345 INFO [TC_GoHome.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2017-01-25 15:48:03,543 INFO [TC_GoHome.class] - ~~~~~~~~~~~~ The Screen Capture is :/Users/veronica1/Documents/eclipseWorkSpace/AUTO-P/logs/2017-01-25 15_48_01_SafariDriver/common_member_TC_GoHome/2017-01-25 15_48_03_543.jpg ~~~~~~~~~~~~
+2017-01-25 15:48:03,545 INFO [TC_GoHome.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2017-01-25 15:48:03,552 INFO [TC_GoHome.class] - ################## Finish to Execute Case: 【 TC_GoHome~member~common 】####################
+2017-01-25 15:48:03,553 INFO [TC_GoHome.class] - #################### Test Result is : 【 fail 】####################
+2017-01-25 15:48:03,553 INFO [TC_GoHome.class] - ################## The Test Description is : 【 To go home page 】####################
+2017-01-25 15:48:03,553 INFO [TC_GoHome.class] - ######################################  WTD Finished ######################################
+2017-01-25 15:48:03,553 INFO [TC_GoHome.class] - ###########################################################################################
+2017-01-25 15:48:03,553 INFO [TC_GoHome.class] - ###########################################################################################
+2017-01-25 15:48:03,553 INFO [TC_GoHome.class] - ###########################################################################################
+2017-01-25 15:48:39,684 INFO [TC_GoHome.class] - ###########################################################################################
+2017-01-25 15:48:39,685 INFO [TC_GoHome.class] - ###################################### WTD Start ##########################################
+2017-01-25 15:48:39,685 INFO [TC_GoHome.class] - ################## Start to Execute Case: 【 TC_GoHome~member~common 】####################
+2017-01-25 15:48:40,832 INFO [TC_GoHome.class] - ~~~~~~ Test Point 【 GoToHome 】  : (回到首页)  is 【 fail 】  {can not go to home page}
+2017-01-25 15:48:40,847 INFO [TC_GoHome.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2017-01-25 15:48:41,108 INFO [TC_GoHome.class] - ~~~~~~~~~~~~ The Screen Capture is :/Users/veronica1/Documents/eclipseWorkSpace/AUTO-P/logs/2017-01-25 15_48_39_SafariDriver/common_member_TC_GoHome/2017-01-25 15_48_41_107.jpg ~~~~~~~~~~~~
+2017-01-25 15:48:41,125 INFO [TC_GoHome.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2017-01-25 15:48:41,630 INFO [TC_GoHome.class] - ~~~~~~ Test Point 【 ScreenCapture 】  : (SreenCapture)  is 【 pass 】 
+2017-01-25 15:48:41,633 INFO [TC_GoHome.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2017-01-25 15:48:41,812 INFO [TC_GoHome.class] - ~~~~~~~~~~~~ The Screen Capture is :/Users/veronica1/Documents/eclipseWorkSpace/AUTO-P/logs/2017-01-25 15_48_39_SafariDriver/common_member_TC_GoHome/2017-01-25 15_48_41_811.jpg ~~~~~~~~~~~~
+2017-01-25 15:48:41,813 INFO [TC_GoHome.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2017-01-25 15:48:41,817 INFO [TC_GoHome.class] - ################## Finish to Execute Case: 【 TC_GoHome~member~common 】####################
+2017-01-25 15:48:41,817 INFO [TC_GoHome.class] - #################### Test Result is : 【 fail 】####################
+2017-01-25 15:48:41,817 INFO [TC_GoHome.class] - ################## The Test Description is : 【 To go home page 】####################
+2017-01-25 15:48:41,818 INFO [TC_GoHome.class] - ######################################  WTD Finished ######################################
+2017-01-25 15:48:41,818 INFO [TC_GoHome.class] - ###########################################################################################
+2017-01-25 15:48:41,818 INFO [TC_GoHome.class] - ###########################################################################################
+2017-01-25 15:48:41,818 INFO [TC_GoHome.class] - ###########################################################################################
+2017-01-25 16:07:28,375 INFO [TC_GoHome.class] - ###########################################################################################
+2017-01-25 16:07:28,376 INFO [TC_GoHome.class] - ###################################### WTD Start ##########################################
+2017-01-25 16:07:28,376 INFO [TC_GoHome.class] - ################## Start to Execute Case: 【 TC_GoHome~member~common 】####################
+2017-01-25 16:07:30,020 INFO [TC_GoHome.class] - ~~~~~~ Test Point 【 GoToHome 】  : (回到首页)  is 【 fail 】  {can not go to home page}
+2017-01-25 16:07:30,038 INFO [TC_GoHome.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2017-01-25 16:07:30,347 INFO [TC_GoHome.class] - ~~~~~~~~~~~~ The Screen Capture is :/Users/veronica1/Documents/eclipseWorkSpace/AUTO-P/logs/2017-01-25 16_07_28_SafariDriver/common_member_TC_GoHome/2017-01-25 16_07_30_346.jpg ~~~~~~~~~~~~
+2017-01-25 16:07:30,371 INFO [TC_GoHome.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2017-01-25 16:07:30,872 INFO [TC_GoHome.class] - ~~~~~~ Test Point 【 ScreenCapture 】  : (SreenCapture)  is 【 pass 】 
+2017-01-25 16:07:30,876 INFO [TC_GoHome.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2017-01-25 16:07:31,053 INFO [TC_GoHome.class] - ~~~~~~~~~~~~ The Screen Capture is :/Users/veronica1/Documents/eclipseWorkSpace/AUTO-P/logs/2017-01-25 16_07_28_SafariDriver/common_member_TC_GoHome/2017-01-25 16_07_31_52.jpg ~~~~~~~~~~~~
+2017-01-25 16:07:31,060 INFO [TC_GoHome.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2017-01-25 16:07:31,066 INFO [TC_GoHome.class] - ################## Finish to Execute Case: 【 TC_GoHome~member~common 】####################
+2017-01-25 16:07:31,066 INFO [TC_GoHome.class] - #################### Test Result is : 【 fail 】####################
+2017-01-25 16:07:31,066 INFO [TC_GoHome.class] - ################## The Test Description is : 【 To go home page 】####################
+2017-01-25 16:07:31,066 INFO [TC_GoHome.class] - ######################################  WTD Finished ######################################
+2017-01-25 16:07:31,066 INFO [TC_GoHome.class] - ###########################################################################################
+2017-01-25 16:07:31,066 INFO [TC_GoHome.class] - ###########################################################################################
+2017-01-25 16:07:31,066 INFO [TC_GoHome.class] - ###########################################################################################
+2017-01-25 16:15:35,726 INFO [TC_GoHome.class] - ###########################################################################################
+2017-01-25 16:15:35,727 INFO [TC_GoHome.class] - ###################################### WTD Start ##########################################
+2017-01-25 16:15:35,727 INFO [TC_GoHome.class] - ################## Start to Execute Case: 【 TC_GoHome~member~common 】####################
+2017-01-25 16:15:37,319 INFO [TC_GoHome.class] - ~~~~~~ Test Point 【 GoToHome 】  : (回到首页)  is 【 fail 】  {can not go to home page}
+2017-01-25 16:15:37,341 INFO [TC_GoHome.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2017-01-25 16:15:37,689 INFO [TC_GoHome.class] - ~~~~~~~~~~~~ The Screen Capture is :/Users/veronica1/Documents/eclipseWorkSpace/AUTO-P/logs/2017-01-25 16_15_35_SafariDriver/common_member_TC_GoHome/2017-01-25 16_15_37_687.jpg ~~~~~~~~~~~~
+2017-01-25 16:15:37,720 INFO [TC_GoHome.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2017-01-25 16:15:38,237 INFO [TC_GoHome.class] - ~~~~~~ Test Point 【 ScreenCapture 】  : (SreenCapture)  is 【 pass 】 
+2017-01-25 16:15:38,312 INFO [TC_GoHome.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2017-01-25 16:15:39,153 INFO [TC_GoHome.class] - ~~~~~~~~~~~~ The Screen Capture is :/Users/veronica1/Documents/eclipseWorkSpace/AUTO-P/logs/2017-01-25 16_15_35_SafariDriver/common_member_TC_GoHome/2017-01-25 16_15_39_152.jpg ~~~~~~~~~~~~
+2017-01-25 16:15:39,156 INFO [TC_GoHome.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2017-01-25 16:15:39,168 INFO [TC_GoHome.class] - ################## Finish to Execute Case: 【 TC_GoHome~member~common 】####################
+2017-01-25 16:15:39,168 INFO [TC_GoHome.class] - #################### Test Result is : 【 fail 】####################
+2017-01-25 16:15:39,168 INFO [TC_GoHome.class] - ################## The Test Description is : 【 To go home page 】####################
+2017-01-25 16:15:39,168 INFO [TC_GoHome.class] - ######################################  WTD Finished ######################################
+2017-01-25 16:15:39,168 INFO [TC_GoHome.class] - ###########################################################################################
+2017-01-25 16:15:39,168 INFO [TC_GoHome.class] - ###########################################################################################
+2017-01-25 16:15:39,168 INFO [TC_GoHome.class] - ###########################################################################################
+2017-01-25 16:24:57,547 INFO [TC_GoHome.class] - ###########################################################################################
+2017-01-25 16:24:57,547 INFO [TC_GoHome.class] - ###################################### WTD Start ##########################################
+2017-01-25 16:24:57,547 INFO [TC_GoHome.class] - ################## Start to Execute Case: 【 TC_GoHome~member~common 】####################
+2017-01-25 16:24:58,759 INFO [TC_GoHome.class] - ~~~~~~ Test Point 【 GoToHome 】  : (回到首页)  is 【 fail 】  {can not go to home page}
+2017-01-25 16:24:58,772 INFO [TC_GoHome.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2017-01-25 16:24:59,065 INFO [TC_GoHome.class] - ~~~~~~~~~~~~ The Screen Capture is :/Users/veronica1/Documents/eclipseWorkSpace/AUTO-P/logs/2017-01-25 16_24_57_SafariDriver/common_member_TC_GoHome/2017-01-25 16_24_59_65.jpg ~~~~~~~~~~~~
+2017-01-25 16:24:59,098 INFO [TC_GoHome.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2017-01-25 16:24:59,603 INFO [TC_GoHome.class] - ~~~~~~ Test Point 【 ScreenCapture 】  : (SreenCapture)  is 【 pass 】 
+2017-01-25 16:24:59,606 INFO [TC_GoHome.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2017-01-25 16:24:59,788 INFO [TC_GoHome.class] - ~~~~~~~~~~~~ The Screen Capture is :/Users/veronica1/Documents/eclipseWorkSpace/AUTO-P/logs/2017-01-25 16_24_57_SafariDriver/common_member_TC_GoHome/2017-01-25 16_24_59_786.jpg ~~~~~~~~~~~~
+2017-01-25 16:24:59,790 INFO [TC_GoHome.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2017-01-25 16:24:59,802 INFO [TC_GoHome.class] - ################## Finish to Execute Case: 【 TC_GoHome~member~common 】####################
+2017-01-25 16:24:59,802 INFO [TC_GoHome.class] - #################### Test Result is : 【 fail 】####################
+2017-01-25 16:24:59,802 INFO [TC_GoHome.class] - ################## The Test Description is : 【 To go home page 】####################
+2017-01-25 16:24:59,802 INFO [TC_GoHome.class] - ######################################  WTD Finished ######################################
+2017-01-25 16:24:59,802 INFO [TC_GoHome.class] - ###########################################################################################
+2017-01-25 16:24:59,802 INFO [TC_GoHome.class] - ###########################################################################################
+2017-01-25 16:24:59,802 INFO [TC_GoHome.class] - ###########################################################################################

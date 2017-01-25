@@ -479,7 +479,7 @@
 				<br />
 				<br />
 
-				<p align="center" style="font-family:'仿宋';font-size:15px;">平安好房自动化测试报告----测试三组</p>
+				<p align="center" style="font-family:'仿宋';font-size:15px;">自动化测试报告</p>
 			</body>
 		</html>
 	</xsl:template>

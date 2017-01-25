@@ -1,0 +1,4 @@
+SafariDriver: safari on MAC (null)
+totalNum=22
+commonTotalNum=20
+interfaceTotalNum=2

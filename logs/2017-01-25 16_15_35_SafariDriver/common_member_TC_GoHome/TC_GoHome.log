@@ -1,0 +1,15 @@
+1586 [main] INFO TC_GoHome.class - ~~~~~~ Test Point 【 GoToHome 】  : (回到首页)  is 【 fail 】  {can not go to home page}
+1608 [main] INFO TC_GoHome.class - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+1956 [main] INFO TC_GoHome.class - ~~~~~~~~~~~~ The Screen Capture is :/Users/veronica1/Documents/eclipseWorkSpace/AUTO-P/logs/2017-01-25 16_15_35_SafariDriver/common_member_TC_GoHome/2017-01-25 16_15_37_687.jpg ~~~~~~~~~~~~
+1987 [main] INFO TC_GoHome.class - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2504 [main] INFO TC_GoHome.class - ~~~~~~ Test Point 【 ScreenCapture 】  : (SreenCapture)  is 【 pass 】 
+2579 [main] INFO TC_GoHome.class - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+3420 [main] INFO TC_GoHome.class - ~~~~~~~~~~~~ The Screen Capture is :/Users/veronica1/Documents/eclipseWorkSpace/AUTO-P/logs/2017-01-25 16_15_35_SafariDriver/common_member_TC_GoHome/2017-01-25 16_15_39_152.jpg ~~~~~~~~~~~~
+3423 [main] INFO TC_GoHome.class - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+3435 [main] INFO TC_GoHome.class - ################## Finish to Execute Case: 【 TC_GoHome~member~common 】####################
+3435 [main] INFO TC_GoHome.class - #################### Test Result is : 【 fail 】####################
+3435 [main] INFO TC_GoHome.class - ################## The Test Description is : 【 To go home page 】####################
+3435 [main] INFO TC_GoHome.class - ######################################  WTD Finished ######################################
+3435 [main] INFO TC_GoHome.class - ###########################################################################################
+3435 [main] INFO TC_GoHome.class - ###########################################################################################
+3435 [main] INFO TC_GoHome.class - ###########################################################################################

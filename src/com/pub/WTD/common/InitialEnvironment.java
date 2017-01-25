@@ -153,7 +153,11 @@ public class InitialEnvironment {
 	public void setShareFolder() {
 		try{
 			String sp = System.getProperty("file.separator");
+			if(GlobalInfo.os.contains("win")){
 			Runtime.getRuntime().exec("net share "+GlobalInfo.pcHostName+"="+GlobalInfo.rootPath+sp+"logs");
+			}else{
+				//linux 找到设置共享目录的方法即可
+			}
 		}catch(Exception e){
 			e.printStackTrace();
 		}

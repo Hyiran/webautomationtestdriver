@@ -30,7 +30,7 @@ public class Mail {
 
 	String user = "AutoTest_QA@163.com";// the user name of sender
 
-	String password = "Pa888888";// the passwd of sender
+	String password = "1688888";// the passwd of sender
 
 	private List<String> receptions = new ArrayList<String>();// the reception people
 
