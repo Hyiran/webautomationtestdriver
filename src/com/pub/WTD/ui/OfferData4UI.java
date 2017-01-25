@@ -28,7 +28,7 @@ import com.pub.WTD.entities.CaseEntity;
 import com.pub.WTD.util.GlobalInfo;
 
 /**
- * @author hekun
+ * @author zhoujing
  * 
  */
 public class OfferData4UI {

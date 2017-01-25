@@ -21,7 +21,7 @@ import org.openqa.selenium.TakesScreenshot;
 import com.pub.WTD.common.SessionData;
 
 /**
- * @author hekun
+ * @author zhoujing
  * 
  */
 public class ScreenCapture {

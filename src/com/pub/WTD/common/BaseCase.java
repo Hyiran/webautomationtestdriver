@@ -23,7 +23,7 @@ import com.pub.WTD.common.WTDGlobal;
 import com.pub.WTD.dao.SmsDao;
 
 /**
- * @author hekun
+ * @author zhoujing
  * 
  */
 public abstract class BaseCase extends BaseAction{

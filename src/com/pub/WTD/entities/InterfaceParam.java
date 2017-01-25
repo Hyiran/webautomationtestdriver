@@ -9,7 +9,7 @@
 package com.pub.WTD.entities;
 
 /**
- * @author hekun
+ * @author zhoujing
  * the interface test case's parameter entity
  */
 public class InterfaceParam extends BaseEntity{

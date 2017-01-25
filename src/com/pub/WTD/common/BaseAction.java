@@ -22,7 +22,7 @@ import com.pub.WTD.util.IdentifyCode;
 import com.pub.WTD.util.ScreenCapture;
 
 /**
- * @author hekun
+ * @author zhoujing
  * 
  */
 public class BaseAction {

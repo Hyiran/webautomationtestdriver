@@ -30,7 +30,7 @@ import javax.xml.transform.stream.StreamSource;
 import org.dom4j.Element;
 
 /**
- * @author hekun
+ * @author zhoujing
  * 
  */
 public class MailBuilder {

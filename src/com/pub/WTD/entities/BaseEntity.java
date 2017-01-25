@@ -9,7 +9,7 @@
 package com.pub.WTD.entities;
 
 /**
- * @author hekun
+ * @author zhoujing
  *
  */
 public class BaseEntity implements Cloneable{

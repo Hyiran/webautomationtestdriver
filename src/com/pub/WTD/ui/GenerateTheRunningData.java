@@ -24,7 +24,7 @@ import org.openqa.selenium.WebDriver;
 import com.pub.WTD.util.GlobalInfo;
 
 /**
- * @author hekun
+ * @author zhoujing
  *
  */
 public class GenerateTheRunningData {

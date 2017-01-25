@@ -11,7 +11,7 @@ package com.pub.WTD.entities;
 import java.util.List;
 
 /**
- * @author hekun
+ * @author zhoujing
  * the interface test test entity
  */
 public class InterfaceTestEntity extends BaseEntity{

@@ -21,7 +21,7 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 /**
- * @author Administrator
+ * @author administrator
  *
  */
 public class ApplicationLaunch extends Application {

@@ -13,7 +13,7 @@ import java.util.HashMap;
 
 
 /**
- * @author hekun
+ * @author zhoujing
  * 
  */
 public class WTDGlobal {

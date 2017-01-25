@@ -18,7 +18,7 @@ import com.pub.WTD.util.FileSearch;
 import com.pub.WTD.util.GlobalInfo;
 
 /**
- * @author hekun
+ * @author zhoujing
  *
  */
 public class InitUIEnv {

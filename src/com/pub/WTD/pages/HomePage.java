@@ -13,7 +13,7 @@ import com.pub.WTD.common.BasePage;
 import com.pub.WTD.common.SessionData;
 
 /**
- * @author hekun
+ * @author zhoujing
  *
  */
 public class HomePage extends BasePage{

@@ -22,7 +22,7 @@ import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
 
 /**
- * @author hekun
+ * @author zhoujing
  * 
  */
 public class Mail {

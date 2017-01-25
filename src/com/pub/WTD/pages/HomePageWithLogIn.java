@@ -13,7 +13,7 @@ import org.openqa.selenium.By;
 import com.pub.WTD.common.SessionData;
 
 /**
- * @author hekun
+ * @author zhoujing
  * 
  */
 public class HomePageWithLogIn extends HomePage {

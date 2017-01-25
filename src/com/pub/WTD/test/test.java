@@ -45,7 +45,7 @@ import org.openqa.selenium.remote.SessionId;
 
 
 /**
- * @author hekun
+ * @author zhoujing
  *
  */
 public class test {

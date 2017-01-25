@@ -10,7 +10,7 @@ package com.pub.WTD.common;
 
 
 /**
- * @author hekun
+ * @author zhoujing
  * 
  */
 public class BasePage extends BaseAction{

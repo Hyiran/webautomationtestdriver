@@ -17,7 +17,7 @@ import com.pub.WTD.ui.MainUIController;
 import com.sun.org.apache.xml.internal.resolver.helpers.PublicId;
 
 /**
- * @author hekun
+ * @author zhoujing
  * 
  */
 public class GlobalInfo {
@@ -32,4 +32,6 @@ public class GlobalInfo {
 	public static String HostName="";
 	public static HashMap<String, String> varibles=new HashMap<String,String>();
 	public static MainUIController mainUIController=null;
+	public static String os = System.getProperty("os.name").toLowerCase();  
+
 }

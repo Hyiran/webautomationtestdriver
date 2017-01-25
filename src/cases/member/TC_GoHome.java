@@ -2,7 +2,7 @@
  * @Title: TcGotoHome.java 
  * @Package com.pub.WTD.cases 
  * @Description: Test Case to go to home
- * @author hekun 158109016@qq.com
+ * @author zhoujing
  * @date 2014��7��3�� ����2:58:40 
  * @version V1.0   
  */
@@ -15,7 +15,7 @@ import com.pub.WTD.common.BaseCase;
 import com.pub.WTD.pages.HomePage;
 
 /**
- * @author hekun
+ * @author zhoujing
  * 
  */
 public class TC_GoHome extends BaseCase {

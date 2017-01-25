@@ -13,7 +13,7 @@ import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 
 /**
- * @author hekun
+ * @author zhoujing
  * 
  */
 public class SessionData {

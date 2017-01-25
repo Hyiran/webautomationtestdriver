@@ -36,7 +36,7 @@ import javax.swing.JTable;
 import javafx.css.*;
 
 /**
- * @author hekun
+ * @author zhoujing
  *
  */
 public class test1 extends JFrame {

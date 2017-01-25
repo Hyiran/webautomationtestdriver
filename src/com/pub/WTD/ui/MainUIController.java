@@ -32,7 +32,7 @@ import javafx.scene.control.cell.PropertyValueFactory;
 
 
 /**
- * @author hekun
+ * @author zhoujing
  *
  */
 public class MainUIController implements Initializable{

@@ -30,7 +30,7 @@ import com.pub.WTD.common.InitWebDriver;
 import com.pub.WTD.common.SessionData;
 
 /**
- * @author hekun
+ * @author zhoujing
  * 
  */
 public class IdentifyCode{

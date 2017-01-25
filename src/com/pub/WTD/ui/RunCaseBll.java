@@ -37,7 +37,7 @@ import javafx.scene.effect.Glow;
 import javafx.scene.Node;
 
 /**
- * @author hekun
+ * @author zhoujing
  *
  */
 public class RunCaseBll {

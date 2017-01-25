@@ -21,7 +21,7 @@ import org.dom4j.io.SAXReader;
 import com.pub.WTD.util.GlobalInfo;
 
 /**
- * @author hekun
+ * @author zhoujing
  * 
  */
 public class FindCaseNames {

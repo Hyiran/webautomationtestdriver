@@ -21,7 +21,7 @@ import com.pub.WTD.util.GlobalInfo;
 import com.pub.WTD.util.UrlGenerator;
 
 /**
- * @author hekun
+ * @author zhoujing
  *
  */
 public class InterfaceTestEngine {

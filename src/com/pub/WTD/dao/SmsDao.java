@@ -16,7 +16,7 @@ import com.pub.WTD.common.SessionData;
  * @version V1.0   
  */
 /**
- * @author hekun
+ * @author zhoujing
  * 
  */
 public class SmsDao extends BaseDao{

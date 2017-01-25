@@ -8,8 +8,11 @@
 		<!-- fireFox location="C:\Program Files\Mozilla Firefox\firefox.exe"/ -->
 		<!--chrome location="\Applications\Google Chrome.app"/ -->
 		<!-- ie location=""/ -->
-		<chrome location="\Applications\Google Chrome.app"></chrome>
-	</Browser>
+<!-- 		<chrome location="\Applications\Google Chrome.app"></chrome>
+ -->
+  		<safari location=""></safari>
+ 	
+ </Browser>
 	<MailReceptor>
 
 		<!-- user email="zhoujing61@wanda.com.cn"/ -->

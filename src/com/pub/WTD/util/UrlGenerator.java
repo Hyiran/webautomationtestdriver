@@ -2,8 +2,8 @@
  * @Title: UrlGenerator.java 
  * @Package com.pub.WTD.util 
  * @Description: The tool class to generate url and send request
- * @author hekun 158109016@qq.com
- * @date 2014��7��4�� ����2:30:00 
+ * @author zhoujing
+ * @date 
  * @version V1.0   
  */
 package com.pub.WTD.util;
@@ -36,8 +36,6 @@ import org.dom4j.Document;
 import org.dom4j.DocumentException;
 import org.dom4j.Element;
 import org.dom4j.io.SAXReader;
-import org.json.JSONException;
-import org.json.JSONObject;
 
 import com.pub.WTD.entities.InterfaceParam;
 import com.pub.WTD.entities.InterfaceTestEntity;

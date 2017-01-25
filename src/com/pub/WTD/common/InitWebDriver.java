@@ -20,18 +20,17 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxBinary;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.openqa.selenium.safari.SafariDriver;
 
 import com.pub.WTD.util.GlobalInfo;
 
 /**
- * @author hekun
+ * @author zhoujing
  * 
  */
 public class InitWebDriver {
 	List<WebDriver> webDriverList = new ArrayList<WebDriver>();
-	
 	public InitWebDriver(){
-		
 	}
 	/**
 	 * new all webdrivers and return the webderiver objective
@@ -100,13 +99,28 @@ public class InitWebDriver {
 	
 				}
 			} else if (browserName.toLowerCase().contains("chrome")) {
-				System.setProperty("webdriver.chrome.driver",GlobalInfo.rootPath + sp + "tools" + sp
-						+ "chromedriver.exe");
-				if(browserLocation.equals("")){
+				if(GlobalInfo.os.contains("mac")){
+					//System.setProperty("webdriver.chrome.driver","//Applications//Google\\ Chrome.app//Contents//MacOS//Google\\ Chrome");
+				}else if(GlobalInfo.os.contains("win")){
+					System.setProperty("webdriver.chrome.driver",GlobalInfo.rootPath + sp + "tools" + sp
+							+ "chromedriver.exe");
+
+				}else{
+					System.setProperty("webdriver.chrome.driver",GlobalInfo.rootPath + sp + "tools" + sp
+							+ "chromedriver.exe");
+
+				}
+				
+								if(browserLocation.equals("")){
 					webDriver=new ChromeDriver();
 				}else{
 					webDriver=new ChromeDriver();
 				}
+			}else if(browserName.toLowerCase().contains("safari")){
+				//System.setProperty("webdriver.safari.driver", "/Users/veronica1/Library/Safari/Extensions");
+				System.setProperty("webdriver.safari.noinstall", "true");
+				webDriver = new SafariDriver();
+
 			}
 			return webDriver;
 	}

@@ -12,7 +12,7 @@ import javafx.beans.property.SimpleStringProperty;
 import javafx.beans.property.StringProperty;
 
 /**
- * @author hekun
+ * @author zhoujing
  * for UI caseEntity
  */
 public class CaseEntity extends BaseEntity{
